@@ -18,7 +18,7 @@ import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
 
 /**
- * Entry point classes define <code>onModuleLoad()</code>.
+ * Entryyyyyy point classes define <code>onModuleLoad()</code>.
  */
 public class It04gwt implements EntryPoint {
 	/**
