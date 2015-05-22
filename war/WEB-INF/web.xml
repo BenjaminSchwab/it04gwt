@@ -7,13 +7,13 @@
 
   <!-- Servlets -->
   <servlet>
-    <servlet-name>greetServlet</servlet-name>
-    <servlet-class>de.hdm.it04.server.GreetingServiceImpl</servlet-class>
+  	<servlet-name> exampleServlet </servlet-name>
+  	<servlet-class>de.hdm.it04.server.ServiceImpl </servlet-class>
   </servlet>
   
-  <servlet-mapping>
-    <servlet-name>greetServlet</servlet-name>
-    <url-pattern>/it04gwt/greet</url-pattern>
+  <servlet-mapping> 
+  	<servlet-name> exampleServlet </servlet-name>
+  	<url-pattern> /it04/exampleService </url-pattern>
   </servlet-mapping>
   
   <!-- Default page to serve -->
