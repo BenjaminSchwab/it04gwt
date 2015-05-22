@@ -7,7 +7,7 @@ import com.google.gwt.user.client.ui.RootPanel;
 import de.hdm.it04.client.service.ClientImpl;
 
 /**
- * Entry point classes define <code>onModuleLoad()</code>.
+ * Entryyyyyy point classes define <code>onModuleLoad()</code>.
  */
 public class It04gwt implements EntryPoint {
 	
