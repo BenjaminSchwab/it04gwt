@@ -8,7 +8,7 @@ public class ServiceImpl extends RemoteServiceServlet implements Service {
 
 	@Override
 	public String sayHello(String name) {
-		String ergebnis = "Hello " + name;
+		String ergebnis = "Hallo " + name;
 		return ergebnis;
 	}
 

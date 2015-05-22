@@ -45,11 +45,8 @@ public class MainGUI extends Composite {
 	
 	private class btnClickHandler implements ClickHandler{
 
-		
-
 		@Override
 		public void onClick(ClickEvent event) {
-			
 			String name = tBox.getText();
 			serviceImpl.sayHello(name);
 		}
